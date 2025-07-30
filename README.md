@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AdityaShirwalkar
 - 👀 I’m interested in Web Development, Devops and more!
-- 🌱 I’m currently learning React.js and Next.js 
+- 🌱 I’m currently working with Angular, React.js, Next.js and Django!  
 - 💞️ I’m looking to collaborate on MERN or MEAN stack projects
 - 📫 How to reach me : LinkedIN - www.linkedin.com/in/aditya-shirwalkar-670832256
 - 😄 Pronouns: He/him
